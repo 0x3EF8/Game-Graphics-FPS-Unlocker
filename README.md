@@ -1,4 +1,4 @@
-##### Introduction: Unlocker | Magisk Module
+##### Introduction: Game Graphics/FPS Unlocker | Magisk Module
 
 ##### Contact: [0x3EF8](https://fb.me/0x3EF8)
 
