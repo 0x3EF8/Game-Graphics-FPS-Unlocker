@@ -1,13 +1,11 @@
-##### Introduction: Game Graphics/FPS Unlocker | Magisk Module
+#### Unlock Game Graphics/FPS | Magisk Module
 
-##### Contact: [0x3EF8](https://fb.me/0x3EF8)
+#### Universal Support
 
-##### Support: Universal
+#### Note: Enable Game Graphics/FPS.This module will not work if you're using MagiskHide Props. or other similar modules with it. SafetyNet failed for all games. I require assistance.Xposed module to fix or bypass SafetyNet. It may break some system apps, such as Miui Camera, Package Installer, and others.
 
-#### Note: Unlock Game Graphics/FPS. This module will not work if You're using MagiskHide Props. Or others similar Modules with it. Not Work for All Games, causing SafetyNet fail. Need Xposed module to fix or bypass SafetyNet. It may break some system Apps, such as Miui Camera, Package Installer and etc.
+#### Installation: Just flash via Magisk and reboot
 
-##### ✓ #### Note: Enable Game Graphics/FPS.This module will not work if you're using MagiskHide Props. or other similar modules with it. SafetyNet failed for all games. I require assistance.Xposed module to fix or bypass SafetyNet. It may break some system apps, such as Miui Camera, Package Installer, and others.
-Simply flash with Magisk and reboot.
-Disclaimer: Naturally, you take all the responsibility for what happens to your device when you start messing around with things. I (Jay Patrick Cano) will not be responsible for ANY DAMAGE caused to anyone's devices due to the use of this module.: Just flash via Magisk and reboot
+#### Disclaimer: Naturally, you take all the responsibility for what happens to your device when you start messing around with things. I (Jay Patrick Cano) will not be responsible for ANY DAMAGE caused to anyone's devices due to the use of this module.
 
-##### Disclaimer: Naturally, you take all the responsibility for what happens to your device when you start messing around with things. I (Jay Patrick Cano) will not be responsible for ANY DAMAGE caused to anyone's devices due to the use of this module.
+https://github.com/0x3EF8/Game-Graphics-FPS-Unlocker
