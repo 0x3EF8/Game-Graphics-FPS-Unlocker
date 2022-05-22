@@ -2,7 +2,7 @@
 
 #### Universal Support
 
-#### Note: Enable Game Graphics/FPS.This module will not work if you're using MagiskHide Props. or other similar modules with it. SafetyNet failed for all games. I require assistance.Xposed module to fix or bypass SafetyNet. It may break some system apps, such as Miui Camera, Package Installer, and others.
+#### Note: This module will not work if you're using MagiskHide Props. or other similar modules with it. SafetyNet failed for all games. I require assistance.Xposed module to fix or bypass SafetyNet. It may break some system apps, such as Miui Camera, Package Installer, and others.
 
 #### Installation: Just flash via Magisk and reboot
 
